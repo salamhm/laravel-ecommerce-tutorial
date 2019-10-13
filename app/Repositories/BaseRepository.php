@@ -3,6 +3,7 @@
 namespace App\Repositories;
 
 use App\Contracts\BaseContract;
+use Illuminate\Database\Eloquent\Model;
 
 /**
  * Class BaseRepository
